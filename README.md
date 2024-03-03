@@ -1,6 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://i.ibb.co/vmkrbTY/channels4-profile.jpg">
+<img src="https://i.ibb.co/rF6DGjx/descarga.jpg" width="300px">
 </p>
 
 # Github de Gorka Hernandez
