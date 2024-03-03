@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/131766898?v=4">
 </p>
 
-# Portafolio de Gorka Hernandez
+# Github de Gorka Hernandez
 
 ¡Bienvenido a mi perfil de GitHub! Soy Gorka Hernandez, un estudiante de la Universitat Pompeu Fabra apasionado por la tecnología del futuro y el desarrollo web. Aquí encontrarás una muestra de mis proyectos y más información sobre mí.
 
