@@ -1,3 +1,7 @@
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<p align='center'>
+<img src="https://yt3.googleusercontent.com/abgXb5WC-EVS_NeErR6YP-hGdRzATEC6FYRNMoUneTjAzddDyDAK8dqmaR_M8FlADzauPCGNq7o=s176-c-k-c0x00ffffff-no-rj">
+</p>
 
 # Portafolio de Gorka Hernandez
 
