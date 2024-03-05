@@ -23,15 +23,15 @@ Puedes encontrar más detalles sobre mis proyectos en mi [web](https://gorkah.gi
 
 ¡Hablemos de proyectos emocionantes! Puedes contactarme a través de mi correo electrónico: [gorkahv@icloud.com](mailto:gorkahv@icloud.com).
 
-## Enlaces
-
-- [Sitio web personal](https://gorkah.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/gorka-hernandez-11204126a/)
-- [GitHub](https://github.com/gorkah)
-- [Youtube](https://youtube.com/@thepalms1)
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gorkah.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorka-hernandez-11204126a/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@thepalms1)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorkahv@icloud.com)
 
 
-![Logo](https://yt3.googleusercontent.com/abgXb5WC-EVS_NeErR6YP-hGdRzATEC6FYRNMoUneTjAzddDyDAK8dqmaR_M8FlADzauPCGNq7o=s176-c-k-c0x00ffffff-no-rj)
+
+
+
 
 
