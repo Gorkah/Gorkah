@@ -3,6 +3,8 @@
 <img src="https://i.ibb.co/rF6DGjx/descarga.jpg" width="300px">
 </p>
 
+Owner: https://thepalms.tech
+
 # Github de Gorka Hernandez
 
 ¡Bienvenido a mi perfil de GitHub! Soy Gorka Hernandez, un estudiante de la Universitat Pompeu Fabra apasionado por la tecnología del futuro y el desarrollo web. Aquí encontrarás una muestra de mis proyectos y más información sobre mí.
