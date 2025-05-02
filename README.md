@@ -1,29 +1,49 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://i.ibb.co/rF6DGjx/descarga.jpg" width="300px">
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gorka Hernández</h1>
+
+<p align="center">
+  <img src="https://i.ibb.co/rF6DGjx/descarga.jpg" width="250px" alt="Gorka Hernandez profile image"/>
 </p>
 
-Owner: https://thepalms.tech
+<p align="center">
+  🎓 Estudiante de Ingeniería Informática en la <strong>Universitat Pompeu Fabra</strong><br>
+  💻 Apasionado por el desarrollo web, la tecnología emergente y la creación de software útil<br>
+  🌐 Fundador de <a href="https://thepalms.tech" target="_blank"><strong>thepalms.tech</strong></a>
+</p>
 
-# Github de Gorka Hernandez
+---
 
-Bienvenido a mi perfil de GitHub!
+## 🚀 Sobre mí
 
-Soy Gorka Hernández, estudiante de ingenieria informática en la Universitat Pompeu Fabra y apasionado por la tecnología del futuro y el desarrollo web. Aquí encontrarás algunos de mis proyectos, así como más información sobre mi trabajo y aprendizajes. 
+Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde sitios web modernos hasta análisis tecnológicos, me gusta explorar cómo la tecnología puede mejorar nuestro día a día.
 
-También soy el creador de thepalms.tech, una plataforma donde compartimos las últimas novedades del mundo tecnológico, análisis honestos de productos y desarollo de software útil para mejorar tu día a día.
+🔧 En este perfil encontrarás algunos de mis proyectos más recientes, experimentos, y colaboraciones.
 
-## Contacto
+🧠 Siempre estoy aprendiendo algo nuevo: frameworks modernos, inteligencia artificial, automatización, y mucho más.
 
-¡Hablemos de proyectos emocionantes! Puedes contactarme a través de mi correo electrónico: [gorkahv@icloud.com](mailto:gorkahv@icloud.com).
+---
 
-## 🔗 Links
+## 🌐 Mi proyecto: [thepalms.tech](https://thepalms.tech)
 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gorkahv@icloud.com)
+📰 En **thepalms.tech** compartimos lo último en tecnología de forma clara, directa y sin humo:  
+- 🔍 Reviews honestas de productos tech  
+- 🧰 Recomendaciones de software realmente útil  
+- 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales
 
+---
 
+## 📫 Contacto
 
+¿Tienes un proyecto interesante o una idea para colaborar? ¡Hablemos!
 
+📩 gorkahv@icloud.com
 
+---
 
+## 🔗 Encuéntrame también en:
 
+<p align="left">
+  <a href="mailto:gorkahv@icloud.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-gorkahv@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Puedes añadir más redes aquí -->
+</p>
