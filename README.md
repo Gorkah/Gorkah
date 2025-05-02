@@ -7,7 +7,9 @@ Owner: https://thepalms.tech
 
 # Github de Gorka Hernandez
 
-¡Bienvenido a mi perfil de GitHub! Soy Gorka Hernandez, un estudiante de la Universitat Pompeu Fabra apasionado por la tecnología del futuro y el desarrollo web. Aquí encontrarás una muestra de mis proyectos y más información sobre mí.
+Bienvenido a mi perfil de GitHub!
+Soy Gorka Hernández, estudiante de ingenieria informática en la Universitat Pompeu Fabra y apasionado por la tecnología del futuro y el desarrollo web. Aquí encontrarás algunos de mis proyectos, así como más información sobre mi trabajo y aprendizajes.
+También soy el creador de thepalms.tech, una plataforma donde compartimos las últimas novedades del mundo tecnológico, análisis honestos de productos y desarollo de software útil para mejorar tu día a día.
 
 ## Contacto
 
