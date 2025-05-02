@@ -28,6 +28,7 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 - 🔍 Reviews honestas de productos tech  
 - 🧰 Recomendaciones de software realmente útil  
 - 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales
+- 🌍 Desarollo de software valioso para mejorar tu dia a dia.
 
 ---
 
