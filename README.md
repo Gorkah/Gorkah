@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Gorka Hernández</h1>
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Gorka Hernández</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/rF6DGjx/descarga.jpg" width="250px" alt="Gorka Hernandez profile image"/>
@@ -27,8 +27,8 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 📰 En **thepalms.tech** compartimos lo último en tecnología de forma clara, directa y sin humo:  
 - 🔍 Reviews honestas de productos tech  
 - 🧰 Recomendaciones de software realmente útil  
-- 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales
-- 🌍 Desarollo de software valioso para mejorar tu dia a dia.
+- 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales  
+- 🌍 Desarrollo de software valioso para mejorar tu día a día
 
 ---
 
@@ -46,5 +46,7 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
   <a href="mailto:gorkahv@icloud.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-gorkahv@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Puedes añadir más redes aquí -->
+  <a href="https://www.linkedin.com/in/gorka-hernandez-11204126a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gorka%20Hern%C3%A1ndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
