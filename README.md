@@ -28,7 +28,6 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 
 📰 En **thepalms.tech** compartimos lo último en tecnología de forma clara, directa y sin humo:  
 - 🔍 Reviews honestas de productos tech  
-- 🧰 Recomendaciones de software realmente útil  
 - 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales  
 - 🌍 Desarrollo de software valioso para mejorar tu día a día
 
