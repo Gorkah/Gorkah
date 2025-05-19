@@ -24,7 +24,7 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 
 ---
 
-## 🌐 Mi proyecto: [thepalms.tech](https://thepalms.tech)
+## 🌐 Mi proyecto: [thepalms.tech](https://thepalms.tech) (WEB ACTUALMENTE EN ACTUALIZACIÓN)
 
 📰 En **thepalms.tech** compartimos lo último en tecnología de forma clara, directa y sin humo:  
 - 🔍 Reviews honestas de productos tech  
