@@ -18,7 +18,7 @@
 
 Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde sitios web modernos hasta análisis tecnológicos, me gusta explorar cómo la tecnología puede mejorar nuestro día a día.
 
-🔧 En este perfil encontrarás algunos de mis proyectos más recientes, experimentos, y colaboraciones.
+🔧 En este perfil encontrarás algunos de mis proyectos más recientes, software, y colaboraciones.
 
 🧠 Siempre estoy aprendiendo algo nuevo: frameworks modernos, inteligencia artificial, automatización, y mucho más.
 
@@ -27,7 +27,7 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 ## 🌐 Mi proyecto: [thepalms.tech](https://thepalms.tech) (WEB ACTUALMENTE EN ACTUALIZACIÓN)
 
 📰 En **thepalms.tech** compartimos lo último en tecnología de forma clara, directa y sin humo:  
-- 🔍 Reviews honestas de productos tech  
+- 🔍 Reviews honestas de productos tech y colaboraciones con marcas
 - 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales  
 - 🌍 Desarrollo de software valioso para mejorar tu día a día
 
