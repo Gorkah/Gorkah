@@ -9,7 +9,12 @@
   💻 Apasionado por el desarrollo web, la tecnología emergente y la creación de software útil<br>
   <img src="https://yt3.ggpht.com/BavB1XFBiZMo32Jh4H396kBtwowS4swhbNoVAIq_0ET5NP9dkNZWPC1y7G7IsT6Zs4IRDNhb=s108-c-k-c0x00ffffff-no-rj" width="30px" alt="Logo de thepalms.tech"/>
   Fundador de <a href="https://thepalms.tech" target="_blank"><strong>thepalms.tech</strong></a>
-
+</p>
+<p align="center">
+    🤖 <strong>Co-Founder @ NEXA AI:</strong> Orquestación de agentes y automatización empresarial<br>
+</p>
+<p align="center">
+  🧠 Actualmente enfocado en: Orquestación de flujos de trabajos y desarrollo móvil con Swift.
 </p>
 
 ---
@@ -30,6 +35,12 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 - 🔍 Reviews honestas de productos tech y colaboraciones con marcas
 - 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales  
 - 🌍 Desarrollo de software valioso para mejorar tu día a día
+## 🏋️ [GymTracker - iOS App](https://apps.apple.com/es/app/gymtracker/id6755971228)
+> *Tu compañero de entrenamiento inteligente. Ya disponible en la App Store.*
+
+<a href="https://apps.apple.com/es/app/gymtracker/id6755971228">
+  <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store"/>
+</a>
 
 ---
 
