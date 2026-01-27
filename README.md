@@ -35,11 +35,30 @@ Hola, soy Gorka 👋 Me encanta construir cosas que aporten valor real. Desde si
 - 🔍 Reviews honestas de productos tech y colaboraciones con marcas
 - 📊 Contenido pensado para ayudarte a tomar mejores decisiones digitales  
 - 🌍 Desarrollo de software valioso para mejorar tu día a día
+---
 ## 🏋️ [GymTracker - iOS App](https://apps.apple.com/es/app/gymtracker/id6755971228)
 > *Tu compañero de entrenamiento inteligente. Ya disponible en la App Store.*
 
 <a href="https://apps.apple.com/es/app/gymtracker/id6755971228">
   <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store"/>
+</a>
+
+---
+
+## 🕵️‍♂️ [SEPE Availability Bot](https://www.elladodelmal.com/2025/09/como-conseguir-cita-en-el-sepe-en-2025.html?m=1)
+> *Reconocido por el experto en ciberseguridad Chema Alonso en "El Lado del Mal"*
+
+<img src="https://img.shields.io/badge/Featured_by-Chema_Alonso-blue?style=for-the-badge&logo=security&logoColor=white" alt="Featured by Chema Alonso"/>
+
+Bot de automatización de escritorio desarrollado para resolver la problemática de falta de citas previas en la administración pública.
+* **El Reto:** Superar la navegación compleja de UI y sistemas anti-bot para conseguir citas en momentos de colapso del servicio.
+* **Tech Stack:** Python, PyAutoGUI, Lógica de Automatización Visual.
+* **Impacto:** El algoritmo fue analizado públicamente por su ingenio técnico y utilidad social, apareciendo en medios digitales.
+<a href="https://www.elladodelmal.com/2025/09/como-conseguir-cita-en-el-sepe-en-2025.html?m=1">
+  <img src="https://img.shields.io/badge/Artículo_-Chema_Alonso-blue?style=for-the-badge&logo=security&logoColor=white" alt="Artículo Chema Alonso"/>
+</a>
+<a href="https://youtu.be/nsZjw5oRMjI">
+  <img src="https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video thePalms"/>
 </a>
 
 ---
