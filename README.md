@@ -14,7 +14,7 @@
     🤖 <strong>Co-Founder @ NEXA AI:</strong> Orquestación de agentes y automatización empresarial<br>
 </p>
 <p align="center">
-  🧠 Actualmente enfocado en: Orquestación de flujos de trabajos y desarrollo móvil con Swift.
+  🧠 Actualmente enfocado en: Orquestación de flujos de trabajos, desarrollo móvil con Swift, web scraping y scalping.
 </p>
 
 ---
