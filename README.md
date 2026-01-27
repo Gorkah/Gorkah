@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Gorka Hernández</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGCuami6wFzUQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709492640196?e=1752105600&v=beta&t=HrAk_5TXWqZ5hGvFSDdcNRE0LPnoTPZUW_vd5MrWWE0" width="250px" alt="Gorka Hernandez profile image"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQESpG5xQmvM0g/profile-displayphoto-shrink_400_400/B4EZdYiweJHYAg-/0/1749537196431?e=1770854400&v=beta&t=41FL87lm_MZuK1Fm81TyUu2cAO1zTvZQfZtgXV1ePPM" width="250px" alt="Gorka Hernandez profile image"/>
 </p>
 
 <p align="center">
