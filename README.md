@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Gorka Hernández</h1>
-
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQESpG5xQmvM0g/profile-displayphoto-shrink_400_400/B4EZdYiweJHYAg-/0/1749537196431?e=1770854400&v=beta&t=41FL87lm_MZuK1Fm81TyUu2cAO1zTvZQfZtgXV1ePPM" width="250px" alt="Gorka Hernandez profile image"/>
 </p>
@@ -80,6 +79,9 @@ Bot de automatización de escritorio desarrollado para resolver la problemática
   <a href="https://www.linkedin.com/in/gorka-hernandez-11204126a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gorka%20Hern%C3%A1ndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Gorkah&label=Profile%20views&color=0e75b6&style=flat" alt="Gorkah" />
 </p>
 
 
