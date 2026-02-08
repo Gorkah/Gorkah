@@ -81,5 +81,5 @@ Bot de automatización de escritorio desarrollado para resolver la problemática
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gorka%20Hern%C3%A1ndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=Gorkah&color=blue)
+
 
