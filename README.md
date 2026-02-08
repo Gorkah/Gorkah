@@ -82,5 +82,5 @@ Bot de automatización de escritorio desarrollado para resolver la problemática
   </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-views-counter.glitch.me/Gorkah/count.svg" alt="Views de Gorkah" />
+  <img src="https://github-profile-views-counter.glitch.me/Gorkah/count.svg?cache=1" alt="Views de Gorkah" />
 </p>
