@@ -11,7 +11,7 @@
   Fundador de <a href="https://thepalms.tech" target="_blank"><strong>thepalms.tech</strong></a>
 </p>
 <p align="center">
-    🤖 <strong>Co-Founder @ NEXA AI:</strong> Orquestación de agentes y automatización empresarial<br>
+    🤖 <strong>Co-Founder project @ NEXA AI:</strong> Orquestación de agentes y automatización empresarial<br>
 </p>
 <p align="center">
   🧠 Actualmente enfocado en: Orquestación de flujos de trabajos, desarrollo móvil con Swift, web scraping y scalping.
@@ -81,3 +81,4 @@ Bot de automatización de escritorio desarrollado para resolver la problemática
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gorka%20Hern%C3%A1ndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+![](https://komarev.com/ghpvc/?user=gorkah)
