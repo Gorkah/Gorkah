@@ -82,5 +82,5 @@ Bot de automatización de escritorio desarrollado para resolver la problemática
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=Gorkah&variant=eye&color=blue" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?user=Gorkah&color=007bff&style=flat-square" alt="Gorkah github views" />
 </p>
