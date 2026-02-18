@@ -6,7 +6,7 @@
 <p align="center">
   🎓 Estudiante de Ingeniería Informática en la <strong>Universitat Pompeu Fabra</strong><br>
   💻 Apasionado por el desarrollo web, la tecnología emergente y la creación de software útil<br>
-  <img src="https://yt3.ggpht.com/BavB1XFBiZMo32Jh4H396kBtwowS4swhbNoVAIq_0ET5NP9dkNZWPC1y7G7IsT6Zs4IRDNhb=s108-c-k-c0x00ffffff-no-rj" width="30px" alt="Logo de thepalms.tech"/>
+  <img src="https://avatars.githubusercontent.com/u/131766898?v=4" width="30px" alt="Logo de thepalms.tech"/>
   Fundador de <a href="https://thepalms.tech" target="_blank"><strong>thepalms.tech</strong></a>
 </p>
 <p align="center">
