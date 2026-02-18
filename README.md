@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Soy Gorka Hernández</h1>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQESpG5xQmvM0g/profile-displayphoto-shrink_400_400/B4EZdYiweJHYAg-/0/1749537196431?e=1770854400&v=beta&t=41FL87lm_MZuK1Fm81TyUu2cAO1zTvZQfZtgXV1ePPM" width="250px" alt="Gorka Hernandez profile image"/>
+  <img src="https://avatars.githubusercontent.com/u/131766898?v=4" width="250px" alt="Gorka Hernandez profile image"/>
 </p>
 
 <p align="center">
   🎓 Estudiante de Ingeniería Informática en la <strong>Universitat Pompeu Fabra</strong><br>
   💻 Apasionado por el desarrollo web, la tecnología emergente y la creación de software útil<br>
-  <img src="https://avatars.githubusercontent.com/u/131766898?v=4" width="30px" alt="Logo de thepalms.tech"/>
+  <img src="https://camo.githubusercontent.com/e412bff57b66768c482d6eac3f4a069b2fa94d300e63531c3b99156985dac364/68747470733a2f2f7974332e67677068742e636f6d2f4261764231584642695a4d6f33324a6834483339366b4274776f775334737768624e6f564149715f304554354e5039646b4e5a5750433179374737497354365a73344952444e68623d733130382d632d6b2d63307830306666666666662d6e6f2d726a" width="30px" alt="Logo de thepalms.tech"/>
   Fundador de <a href="https://thepalms.tech" target="_blank"><strong>thepalms.tech</strong></a>
 </p>
 <p align="center">
