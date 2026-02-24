@@ -86,4 +86,6 @@ Bot de automatización de escritorio desarrollado para resolver la problemática
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkah&theme=radical&hide_border=false" alt="Streak Stats de gorkah" />
 </p>
-![Mis Métricas](https://github.com/gorkah/gorkah/blob/master/github-metrics.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gorkah/gorkah/main/github-metrics.svg" alt="Mis Métricas" width="100%">
+</div>
