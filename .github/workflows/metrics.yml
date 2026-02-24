@@ -25,4 +25,4 @@ jobs:
           plugin_languages_limit: 8
 
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 3
