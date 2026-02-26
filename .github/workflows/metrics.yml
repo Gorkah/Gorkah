@@ -20,29 +20,22 @@ jobs:
           # Dejamos 'base' vacío para que no salgan seguidores, actividad reciente, etc.
           base: "" 
           
-          # ... (resto de tu configuración arriba)
-          
-          # 2. ALCANCE TOTAL 
+          # 2. ALCANCE TOTAL (Privados y colaboraciones)
           config_timezone: Europe/Madrid
           repositories_affiliations: owner, collaborator, organization_member
-          # AÑADIMOS ESTO: Define explícitamente quién eres para que no pierda commits
-          commits_authoring: gorkah
           
-          # 3. MÉTRICAS DE LÍNEAS
+          # 3. MÉTRICAS DE LÍNEAS (El total acumulado)
           plugin_lines: yes
-          plugin_lines_history_limit: 1000 # Subimos de 100 a 1000 repositorios analizados
+          # Aumentamos el límite de repositorios analizados para contar líneas
+          plugin_lines_history_limit: 100 
           
-          # 4. DETALLE POR LENGUAJE (Configuración profunda)
+          # 4. DETALLE POR LENGUAJE (En líneas, no en MB)
           plugin_languages: yes
-          plugin_languages_indepth: yes # Esto es clave, pero requiere más tiempo
+          plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
-          
-          # EL CAMBIO CRUCIAL AQUÍ:
-          plugin_languages_analysis_timeout: 60 # Subimos a 60 minutos si hace falta
-          plugin_languages_recent_load: 10000   # Subimos de 1000 a 10000 eventos/commits
-          plugin_languages_recent_days: 0       # 0 es "siempre", pero a veces forzar 1460 (4 años) ayuda
-          
-          # OTRAS VARIABLES PARA MÁS PRECISIÓN
-          plugin_languages_limit: 20            # Muestra más lenguajes si quieres
+          # Analizamos hasta 1000 commits recientes por repositorio para mayor precisión
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_recent_load: 1000
+          plugin_languages_recent_days: 0 # 0 significa "desde siempre"
+          plugin_languages_limit: 10
           plugin_languages_sections: most-used
-          repositories_batch: 5                 # Procesa repositorios en grupos para no saturar
