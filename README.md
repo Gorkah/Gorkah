@@ -194,13 +194,14 @@ Improving search visibility -> SEO, Schema.org, llms.txt, GEO
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkah&theme=radical&hide_border=false" alt="GitHub streak stats for Gorkah">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gorkah&show_icons=true&theme=radical&hide_border=false" alt="GitHub stats for Gorkah">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>20+</strong><br>software projects</td>
+    <td align="center"><strong>10K</strong><br>LinkedIn jobs processed</td>
+    <td align="center"><strong>5.0/5</strong><br>App Store rating</td>
+    <td align="center"><strong>3</strong><br>languages: ES, CA, EN</td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/gorkah/gorkah/main/github-metrics.svg" alt="GitHub metrics for Gorkah" width="100%">
